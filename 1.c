@@ -2,8 +2,8 @@
 	> File Name: 1.c
 	> Author: Tangweiwei
 	> Mail: 331397964@qq.com 
-	> Created Time: 2012年11月16日 星期五 16时03分37秒
+	> Created Time: 2012年11月16日 星期五 16时18分58秒
  ************************************************************************/
 
 #include<stdio.h>
-skdjfksdjfksjdkfj
+222222
